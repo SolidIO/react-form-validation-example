@@ -1,0 +1,17 @@
+{
+  "name": "react-form-validation",
+  "description": "React form validation example with reusable code validation and input",
+  "main": "main.js",
+  "authors": [
+    "Johan Gustafsson <johan.gustafsson@solidio.se>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/SolidIO/react-gulp-project-setup",
+  "moduleType": [
+    "node"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "components-font-awesome": "~4.5.0"
+  }
+}
